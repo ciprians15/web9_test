@@ -1,0 +1,116 @@
+p {
+    color:olive;
+}
+
+/* Selector by id */
+#p3{
+    color:orange;
+}
+
+/* Selector by class */
+.big-font{
+    font-size:40px;
+}
+
+div.text-red{
+    color:yellow;
+}
+
+.text-blue{
+    color:blue;
+}
+
+/*Affect all div elements with text-blue class*/
+p.text-blue{
+    color:lightblue;
+}
+/*affect all elements with text-blue class inside a div element*/
+div .text-blue{
+    color:red; 
+}
+div>.text-blue{
+    color:yellow;
+}
+.text-red{
+    color:white;
+}
+div[data-type="container-div"]{
+    background-color:black;
+}
+.page-wrapper{
+    background-color:#ccc;
+    border:5px solid#AAA;
+    margin:20px auto;
+    padding:20px 30px;
+    padding-top:50px;
+    width:500px;
+}
+
+*{
+    box-sizing:border-box;
+}
+.highlighted ~ p,
+.highlighted ~ a {
+    font-style: italic;
+}
+.highlighted-content h3:first-child,
+.highlighted-content p:first-of-type{
+    padding-left:50 px;
+}
+.menu{
+    background-color: red;
+    margin: 0 auto;
+    text-align:center;
+    list-style-position:inside;
+    width:300px;
+}
+.menu li:before{
+    content:"+";
+    color:red;
+    font-size: 20px;
+    margin-left:10px;
+}
+.main-menu{
+    background-color: olive;
+    color:lightgray;
+    padding:10px 20px;
+    position:fixed;
+    top: 0;
+    left:0;
+    right:0;
+    text-align: center;
+    z-index: 10;
+}
+.page-wrapper p:first-of-type{
+    position: relative;
+    top:-10px;
+}
+.boxes-container{
+    background-color: purple;
+    height: 400px;
+    position:relative;
+    overflow: hidden;
+}
+.box{
+    background-color: brown;
+    height:40px;
+    width: 40px;
+    float: left;
+}
+.box-1,
+.box-2{
+   
+    
+}
+.box-2{
+    clear:left;
+    height: 100px;
+}
+.box-3,
+.box-4{
+    float:right;
+    
+}
+.box-4{
+    clear:right;
+}

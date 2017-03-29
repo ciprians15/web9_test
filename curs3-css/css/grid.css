@@ -1,0 +1,37 @@
+.row:before,
+.row:after{
+    content:" ";
+    display:table;
+}
+.row:after{
+    clear:both;
+}
+.column{
+    float:left;
+    min-height:200px;
+    border-radius:10%;
+}
+.col-1{
+    width:10%;
+    background-color: brown;
+
+}
+.col-2{
+    width:40%;
+    background-color: lightgray;
+}
+.col-3{
+    width:60%;
+    background-color: olive;
+}
+.col-4{
+    width:30%;
+    background-color: pink;
+}
+.col-5{
+    width:100%;
+    background-color: gray;
+}
+.container{
+    background-color: orange;
+}

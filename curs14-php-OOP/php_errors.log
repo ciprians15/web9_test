@@ -1,0 +1,138 @@
+[08-Feb-2017 18:31:00 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:31:25 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:31:25 UTC] PHP Stack trace:
+[08-Feb-2017 18:31:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/index.php:0
+[08-Feb-2017 18:31:48 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:31:48 UTC] PHP Stack trace:
+[08-Feb-2017 18:31:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/index.php:0
+[08-Feb-2017 18:31:50 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:32:24 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:32:24 UTC] PHP Stack trace:
+[08-Feb-2017 18:32:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/index.php:0
+[08-Feb-2017 18:33:13 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:33:13 UTC] PHP Stack trace:
+[08-Feb-2017 18:33:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/index.php:0
+[08-Feb-2017 18:33:15 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:33:15 UTC] PHP Stack trace:
+[08-Feb-2017 18:33:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/index.php:0
+[08-Feb-2017 18:33:17 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:33:29 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ']' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 15
+[08-Feb-2017 18:33:29 UTC] PHP Stack trace:
+[08-Feb-2017 18:33:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/index.php:0
+[08-Feb-2017 19:04:54 UTC] PHP Parse error:  syntax error, unexpected '[' in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 35
+[08-Feb-2017 19:04:54 UTC] PHP Stack trace:
+[08-Feb-2017 19:04:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/index.php:0
+[08-Feb-2017 19:05:10 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/Articles.php on line 37
+[08-Feb-2017 19:05:10 UTC] PHP Stack trace:
+[08-Feb-2017 19:05:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/index.php:0
+[09-Feb-2017 18:02:17 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 23
+[09-Feb-2017 18:02:17 UTC] PHP Stack trace:
+[09-Feb-2017 18:02:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:53:43 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 22:53:43 UTC] PHP Stack trace:
+[09-Feb-2017 22:53:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:53:43 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 22:53:43 UTC] PHP Stack trace:
+[09-Feb-2017 22:53:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:53:43 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 30
+[09-Feb-2017 22:53:43 UTC] PHP Stack trace:
+[09-Feb-2017 22:53:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:53:43 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 33
+[09-Feb-2017 22:53:43 UTC] PHP Stack trace:
+[09-Feb-2017 22:53:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:53:48 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 22:53:48 UTC] PHP Stack trace:
+[09-Feb-2017 22:53:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:53:48 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 22:53:48 UTC] PHP Stack trace:
+[09-Feb-2017 22:53:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:53:48 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 30
+[09-Feb-2017 22:53:48 UTC] PHP Stack trace:
+[09-Feb-2017 22:53:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:53:48 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 33
+[09-Feb-2017 22:53:48 UTC] PHP Stack trace:
+[09-Feb-2017 22:53:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:56:08 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 22:56:08 UTC] PHP Stack trace:
+[09-Feb-2017 22:56:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:56:08 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 22:56:08 UTC] PHP Stack trace:
+[09-Feb-2017 22:56:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:56:08 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 30
+[09-Feb-2017 22:56:08 UTC] PHP Stack trace:
+[09-Feb-2017 22:56:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:56:08 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 33
+[09-Feb-2017 22:56:08 UTC] PHP Stack trace:
+[09-Feb-2017 22:56:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:56:10 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 22:56:10 UTC] PHP Stack trace:
+[09-Feb-2017 22:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:56:10 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 22:56:10 UTC] PHP Stack trace:
+[09-Feb-2017 22:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:56:10 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 30
+[09-Feb-2017 22:56:10 UTC] PHP Stack trace:
+[09-Feb-2017 22:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 22:56:10 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 33
+[09-Feb-2017 22:56:10 UTC] PHP Stack trace:
+[09-Feb-2017 22:56:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:01:48 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 23:01:48 UTC] PHP Stack trace:
+[09-Feb-2017 23:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:01:48 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 23:01:48 UTC] PHP Stack trace:
+[09-Feb-2017 23:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:01:48 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 30
+[09-Feb-2017 23:01:48 UTC] PHP Stack trace:
+[09-Feb-2017 23:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:01:48 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 33
+[09-Feb-2017 23:01:48 UTC] PHP Stack trace:
+[09-Feb-2017 23:01:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:05:05 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 23:05:05 UTC] PHP Stack trace:
+[09-Feb-2017 23:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:05:05 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 23:05:05 UTC] PHP Stack trace:
+[09-Feb-2017 23:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:05:05 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 30
+[09-Feb-2017 23:05:05 UTC] PHP Stack trace:
+[09-Feb-2017 23:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:05:05 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 33
+[09-Feb-2017 23:05:05 UTC] PHP Stack trace:
+[09-Feb-2017 23:05:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:07 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 23:06:07 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:07 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 25
+[09-Feb-2017 23:06:07 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:07 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 26
+[09-Feb-2017 23:06:07 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:07 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 23:06:07 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:37 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 23:06:37 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:37 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 23:06:37 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:37 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 30
+[09-Feb-2017 23:06:37 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:37 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 33
+[09-Feb-2017 23:06:37 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:59 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 24
+[09-Feb-2017 23:06:59 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:59 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 27
+[09-Feb-2017 23:06:59 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:59 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 30
+[09-Feb-2017 23:06:59 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
+[09-Feb-2017 23:06:59 UTC] PHP Notice:  Undefined variable: article in /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php on line 33
+[09-Feb-2017 23:06:59 UTC] PHP Stack trace:
+[09-Feb-2017 23:06:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/blog/curs14-php-OOP/workshop/form.php:0
